@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0aba4e"],{"15c7":function(t,e,n){"use strict";n.r(e);var i=function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("div",[n("div",[n("van-nav-bar",{attrs:{title:"我的收藏","left-text":"返回","right-text":"按钮","left-arrow":""},on:{"click-left":t.onClickLeft}})],1)])},c=[],o={methods:{onClickLeft:function(){this.$router.push({name:"MyMine"})}},mounted:function(){}},a=o,r=n("2877"),l=Object(r["a"])(a,i,c,!1,null,"1202d346",null);e["default"]=l.exports}}]);
+//# sourceMappingURL=chunk-2d0aba4e.2cab3038.js.map
